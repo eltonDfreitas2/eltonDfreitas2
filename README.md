@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou Elton 👋
 
-<!--
-**eltonDfreitas2/eltonDfreitas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e aluno do entra21 Java.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## 🚀 Projetos
+
+- Sistema de Fretes
+- Sistema de Biblioteca
+- Café Aurora
+
+## 📚 Atualmente estudando
+
+Java, Spring Boot, MySQL e desenvolvimento web.
+
+## 📫 Contato
+
+GitHub: https://github.com/eltonDfreitas2
