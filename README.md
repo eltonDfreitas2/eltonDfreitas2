@@ -1,8 +1,9 @@
 # Olá! Eu sou Elton 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e aluno do entra21 Java.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento de software e desenvolvimento web
 
-## 💻 Tecnologias
+## 🚀 Tecnologias
 
 - Java
 - Spring Boot
@@ -12,16 +13,25 @@
 - JavaScript
 - Git e GitHub
 
-## 🚀 Projetos
+## 📌 Projetos
 
-- Sistema de Fretes
-- Sistema de Biblioteca
-- Café Aurora
+🔹 **Sistema de Fretes**  
+Sistema desenvolvido em Java com integração a banco de dados.
+
+🔹 **Sistema de Biblioteca**  
+Projeto em Java aplicando Programação Orientada a Objetos.
+
+🔹 **Café Aurora**  
+Landing page desenvolvida com HTML, CSS e JavaScript.
 
 ## 📚 Atualmente estudando
 
 Java, Spring Boot, MySQL e desenvolvimento web.
 
+## 🎯 Objetivo
+
+Buscando desenvolver meus conhecimentos em programação e adquirir experiência através de projetos e trabalhos freelance.
+
 ## 📫 Contato
 
-GitHub: https://github.com/eltonDfreitas2
+[GitHub](https://github.com/eltonDfreitas2)
