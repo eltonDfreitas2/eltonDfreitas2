@@ -6,7 +6,7 @@
 ## 🚀 Tecnologias
 
 - Java
-- Spring Boot
+- SpringBoot
 - MySQL
 - HTML
 - CSS
