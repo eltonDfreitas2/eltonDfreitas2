@@ -20,7 +20,8 @@ Sistema desenvolvido em Java com integração a banco de dados.
 
 🔹 **Sistema de Biblioteca**  
 Projeto em Java aplicando Programação Orientada a Objetos.
-
+🔹 **Minha Landing page Meu Portifolio**
+    https://eltondfreitas2.github.io/pagePortifolio/ 
 🔹 **Café Aurora**  
 Landing page desenvolvida com HTML, CSS e JavaScript.
 
@@ -33,5 +34,6 @@ Java, Spring Boot, MySQL e desenvolvimento web.
 Buscando desenvolver meus conhecimentos em programação e adquirir experiência através de projetos e trabalhos freelance.
 
 ## 📫 Contato
-
+Minha pagina
+https://eltondfreitas2.github.io/pagePortifolio/
 [GitHub](https://github.com/eltonDfreitas2)
